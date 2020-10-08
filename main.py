@@ -1,2 +1,2 @@
-print("это мой первый код")
-print("Hello world")
+a = 10
+print (a)
